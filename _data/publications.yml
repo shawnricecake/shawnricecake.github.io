@@ -1,7 +1,7 @@
 main:
 
   - title: "Search for Efficient Large Language Models"
-    authors: "<strong>Xuan Shen</strong>, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang"
+    authors: <strong>Xuan Shen</strong>, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang
     conference_short: "NeurIPS 2024"
     # conference: <strong>NeurIPS</strong> 2024
     pdf: "https://arxiv.org/pdf/2409.17372"
@@ -11,7 +11,7 @@ main:
     # notes: "Accept"
 
   - title: "HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models"
-    authors: "</strong>Xuan Shen</strong>, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin and Yanzhi Wang"
+    authors: <strong>Xuan Shen</strong>, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin, Yanzhi Wang
     conference_short: "TCAD 2024"
     # conference:
     pdf: ""
