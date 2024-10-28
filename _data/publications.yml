@@ -6,6 +6,6 @@ main:
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2409.17372
     # code: https://github.com/shawnricecake/
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # bibtex: 
     image: ./assets/img/search-for-efficient-llms.pdf
-    # notes: Early Accept
+    # notes: Accept
