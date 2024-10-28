@@ -2,10 +2,10 @@ main:
 
   - title: Search for Efficient Large Language Models
     authors: Xuan Shen, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    conference_short: NeurIPS 2024
+    # conference: <strong>NeurIPS</strong> 2024
     pdf: https://arxiv.org/pdf/2409.17372
     # code: https://github.com/shawnricecake/
     # bibtex: 
-    image: ./assets/img/search-for-efficient-llms.pdf
+    image: ./assets/img/paper_search_llm.png
     # notes: Accept
