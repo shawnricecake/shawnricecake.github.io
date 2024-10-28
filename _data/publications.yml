@@ -9,3 +9,13 @@ main:
     # bibtex: 
     image: ./assets/img/paper_search_llm.png
     # notes: Accept
+
+  - title: HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models
+    authors: Xuan Shen, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin and Yanzhi Wang
+    conference_short: TCAD 2024
+    # conference:
+    # pdf: 
+    # code: https://github.com/shawnricecake/
+    # bibtex: 
+    image: ./assets/img/paper_tcad_2024.png
+    # notes: Accept
