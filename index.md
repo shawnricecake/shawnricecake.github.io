@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Northeastern University
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Efficient AI:** Model Compression, Pruning, Quantization, NAS
+- **Software Hardware Co-Design:** Edge Computing, FPGA Implementation, ASIC Design
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Our paper about NAS for LLMs has been accepted to NeurIPS 2024.
+- **[Oct. 2024]** Our paper about PTQ of LLMs on Mobile and FPGA has been accepted to TCAD.
 
 {% include_relative _includes/publications.md %}
 
