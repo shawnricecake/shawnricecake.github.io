@@ -1,21 +1,21 @@
 main:
 
-  - title: Search for Efficient Large Language Models
-    authors: Xuan Shen, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang
-    conference_short: NeurIPS 2024
+  - title: "Search for Efficient Large Language Models"
+    authors: "Xuan Shen, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang"
+    conference_short: "NeurIPS 2024"
     # conference: <strong>NeurIPS</strong> 2024
-    pdf: https://arxiv.org/pdf/2409.17372
-    # code: https://github.com/shawnricecake/
+    pdf: "https://arxiv.org/pdf/2409.17372"
+    # code: "https://github.com/shawnricecake/"
     # bibtex: 
-    image: ./assets/img/paper_search_llm.png
-    # notes: Accept
+    image: "./assets/img/paper_search_llm.png"
+    # notes: "Accept"
 
-  - title: HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models
-    authors: Xuan Shen, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin and Yanzhi Wang
-    conference_short: TCAD 2024
+  - title: "HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models"
+    authors: "Xuan Shen, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin and Yanzhi Wang"
+    conference_short: "TCAD 2024"
     # conference:
-    pdf: 
-    # code: https://github.com/shawnricecake/
+    pdf: ""
+    # code: "https://github.com/shawnricecake/"
     # bibtex: 
-    image: ./assets/img/paper_tcad_2024.png
-    # notes: Accept
+    image: "./assets/img/paper_tcad_2024.png"
+    notes: "Accepted, wait to be published."
