@@ -40,7 +40,7 @@ main:
     image: "./assets/img/paper_deepmad.png"
     # notes: "Accept"
 
-  - title: "Data level lottery ticket hypothesis for vision transformers"
+  - title: "Data Level Lottery Ticket Hypothesis for Vision Transformers"
     authors: <strong>Xuan Shen</strong>, Zhenglun Kong, Minghai Qin, Peiyan Dong, Geng Yuan, Xin Meng, Hao Tang, Xiaolong Ma, Yanzhi Wang
     conference_short: "IJCAI 2023"
     # conference: <strong>IJCAI</strong> 2023
