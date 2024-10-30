@@ -107,14 +107,14 @@
       <style>
           /* 外层容器使 ClustrMaps 居中 */
           #clustrmaps-container {
-              width: 200px;   /* 设置宽度 */
-              height: 200px;  /* 设置高度 */
-              margin: 0 auto; /* 水平居中 */
+              width: 150px;   /* 设置宽度 */
+              height: 150px;  /* 设置高度 */
+              justify-content: center;  /* 水平居中 */
+              margin: 0 auto;
           }
           #clstr_globe {
               transform: scale(0.5);  /* 缩小地图 */
-              transform-origin: 0 0;  /* 从左上角缩放 */
-              display: block;         /* 确保块级元素布局 */
+              transform-origin: center;  /* 从中心缩放 */
           }
       </style>
       
