@@ -29,6 +29,16 @@ main:
     # bibtex: 
     image: "./assets/img/paper_agile_quant.png"
     # notes: "Accept"
+    
+  - title: "DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network"
+    authors: <strong>Xuan Shen</strong>, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang
+    conference_short: "CVPR 2023"
+    # conference: <strong>CVPR</strong> 2023
+    pdf: "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DeepMAD_Mathematical_Architecture_Design_for_Deep_Convolutional_Neural_Network_CVPR_2023_paper.pdf"
+    code: "https://github.com/alibaba/lightweight-neural-architecture-search"
+    # bibtex: 
+    image: "./assets/img/paper_deepmad.png"
+    # notes: "Accept"
 
   - title: "Data level lottery ticket hypothesis for vision transformers"
     authors: <strong>Xuan Shen</strong>, Zhenglun Kong, Minghai Qin, Peiyan Dong, Geng Yuan, Xin Meng, Hao Tang, Xiaolong Ma, Yanzhi Wang
