@@ -97,23 +97,42 @@
 
       {{ content }}
 
+      <br>
+
+      </section>
+
       <!-- ClustrMaps Container to Control Size and Center Alignment -->
       <div id="clustrmaps-container">
-          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0"></script>
+          <div id="clustrmaps-inner">
+              <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0"></script>
+          </div>
       </div>
 
       <style>
-          /* 外层容器使 ClustrMaps 居中 */
+          /* 外层容器居中对齐 */
           #clustrmaps-container {
               display: flex;
-              justify-content: center;  /* 水平居中 */
-              margin: 0 auto;
+              justify-content: center;
+              align-items: center;
+              width: 100%;                /* 占满宽度 */
+              margin: 0 auto;             /* 居中对齐 */
           }
+
+          /* 内层容器控制 ClustrMaps 大小 */
+          #clustrmaps-inner {
+              width: 100px;               /* 设置固定宽度 */
+              height: 100px;              /* 设置固定高度 */
+              overflow: hidden;           /* 裁剪超出部分 */
+              position: relative;         /* 相对定位 */
+          }
+
+          /* ClustrMaps 脚本内的内容缩放 */
           #clstr_globe {
-              width: 100px;               /* 固定宽度 */
-              height: 100px;              /* 固定高度 */
-              max-width: 70%;            /* 防止溢出 */
-              max-height: 70%;
+              position: absolute;
+              top: 0;
+              left: 0;
+              transform: scale(0.5);      /* 缩放内容 */
+              transform-origin: top left; /* 从左上角缩放 */
           }
       </style>
 
