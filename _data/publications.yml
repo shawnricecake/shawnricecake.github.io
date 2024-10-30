@@ -10,16 +10,6 @@ main:
     image: "./assets/img/paper_search_llm.png"
     # notes: "Accept"
 
-  - title: "HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models"
-    authors: <strong>Xuan Shen</strong>, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin, Yanzhi Wang
-    conference_short: "TCAD 2024"
-    # conference:
-    pdf: ""
-    # code: "https://github.com/shawnricecake/"
-    # bibtex: 
-    image: "./assets/img/paper_tcad_2024.png"
-    notes: "Accepted, wait to be published."
-
   - title: "Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge"
     authors: <strong>Xuan Shen</strong>, Peiyan Dong, Lei Lu, Zhenglun Kong, Zhengang Li, Ming Lin, Chao Wu, Yanzhi Wang
     conference_short: "AAAI 2024"
@@ -49,4 +39,14 @@ main:
     # bibtex: 
     image: "./assets/img/paper_lottery_vit.png"
     # notes: "Accept"
+
+  - title: "HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models"
+    authors: <strong>Xuan Shen</strong>, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin, Yanzhi Wang
+    conference_short: "TCAD 2024"
+    # conference:
+    pdf: ""
+    # code: "https://github.com/shawnricecake/"
+    # bibtex: 
+    image: "./assets/img/paper_tcad_2024.png"
+    notes: "Accepted, wait to be published."
     
