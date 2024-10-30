@@ -97,45 +97,16 @@
 
       {{ content }}
 
-
-
-        
-      <!-- ClustrMaps Container to Control Size and Center Alignment -->
-      <div id="clustrmaps-container">
-          <iframe id="clustrmaps-iframe" 
-                  src="//clustrmaps.com/globe.js?d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0" 
-                  frameborder="0" 
-                  scrolling="no">
-          </iframe>
-      </div>
-      
-      <style>
-          /* 外层容器居中对齐 */
-          #clustrmaps-container {
-              display: flex;
-              justify-content: center;  /* 水平居中 */
-              align-items: center;      /* 垂直居中 */
-              width: 100%;              /* 占满宽度 */
-              margin: 0 auto;           /* 居中对齐 */
-          }
-      
-          /* 控制 iframe 大小 */
-          #clustrmaps-iframe {
-              width: 130px;  /* 固定宽度 */
-              height: 130px; /* 固定高度 */
-              border: none;  /* 去除边框 */
-              overflow: hidden;
-          }
-      </style>
-
-
-        
-      
       <br>
       
 <!--       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %} -->
+
+      <div style="width:200px; pointer-events: none;">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0"></script>
+      </div>
+      
 
       </section>
       <footer>
