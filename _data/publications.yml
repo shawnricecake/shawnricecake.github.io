@@ -5,7 +5,7 @@ main:
     conference_short: "NeurIPS 2024"
     # conference: <strong>NeurIPS</strong> 2024
     pdf: "https://arxiv.org/pdf/2409.17372"
-    # code: "https://github.com/shawnricecake/"
+    code: "https://github.com/shawnricecake/search-llm"
     # bibtex: 
     image: "./assets/img/paper_search_llm.png"
     # notes: "Accept"
@@ -19,3 +19,14 @@ main:
     # bibtex: 
     image: "./assets/img/paper_tcad_2024.png"
     notes: "Accepted, wait to be published."
+
+  - title: "Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge"
+    authors: <strong>Xuan Shen</strong>, Peiyan Dong, Lei Lu, Zhenglun Kong, Zhengang Li, Ming Lin, Chao Wu, Yanzhi Wang
+    conference_short: "AAAI 2024"
+    # conference: <strong>AAAI</strong> 2024
+    pdf: "https://arxiv.org/pdf/2312.05693"
+    code: "https://github.com/shawnricecake/agile-quant"
+    # bibtex: 
+    image: "./assets/img/paper_agile_quant.png"
+    # notes: "Accept"
+    
