@@ -97,17 +97,12 @@
 
       {{ content }}
 
-      <br>
-
-      </section>
-
       <!-- ClustrMaps Container to Control Size and Center Alignment -->
       <div id="clustrmaps-container">
           <div id="clustrmaps-inner">
               <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0"></script>
           </div>
       </div>
-
       <style>
           /* 外层容器居中对齐 */
           #clustrmaps-container {
@@ -120,8 +115,8 @@
 
           /* 内层容器控制 ClustrMaps 大小 */
           #clustrmaps-inner {
-              width: 100px;               /* 设置固定宽度 */
-              height: 100px;              /* 设置固定高度 */
+              width: 150px;               /* 设置固定宽度 */
+              height: 150px;              /* 设置固定高度 */
               overflow: hidden;           /* 裁剪超出部分 */
               position: relative;         /* 相对定位 */
           }
@@ -136,6 +131,7 @@
           }
       </style>
 
+      
       <br>
       
 <!--       {% if site.enable_footnote %}
