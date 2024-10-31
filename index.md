@@ -22,8 +22,8 @@ I was fortunate to work with [Ming Lin](https://minglin-home.github.io/).
 
 ## Professional Experience
 
-- Adobe Inc., Research Intern, May 2024 - Current
-- Alibaba DAMO Academy, Research Intern, June 2022 - August 2022
+- Research Intern @ [Adobe Research](https://research.adobe.com/) advised by [Jiuxiang Gu](https://gujiuxiang.com/) at May 2024 - Current 
+- Research Intern @ [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496657217451982848); advised by [Ming Lin](https://minglin-home.github.io/) at June 2022 - August 2022
 
 
 {% include_relative _includes/publications.md %}
