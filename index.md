@@ -9,7 +9,7 @@ I am a Ph.D. student in ECE Department of [Northeastern University](https://www.
 I work closely with [Jiuxiang Gu](https://gujiuxiang.com/), Prof. [Pu Zhao](https://puzhao.info/) and Prof. [Wei Niu](https://www.niuwei.info/).
 I was fortunate to work with [Ming Lin](https://minglin-home.github.io/).
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively seeking post-doctoral and full-time research opportunities. If our research interests align, please feel free to reach out to discuss potential collaborations.</strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">As a final-year Ph.D. candidate, I am actively pursuing post-doctoral and full-time research opportunities. I would welcome the chance to connect and discuss potential collaborations if our research interests align.</strong>
 
 ## Research Interests
 
