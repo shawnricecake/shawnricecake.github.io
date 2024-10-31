@@ -20,6 +20,12 @@ I was fortunate to work with [Ming Lin](https://minglin-home.github.io/).
 - **[Oct. 2024]** Our paper about PTQ of LLMs on Mobile and FPGA has been accepted to TCAD.
 - **[Oct. 2024]** Two papers about LLMs and Mamba have been accepted to EMNLP.
 
+## Professional Experience
+
+- Adobe Inc., Research Intern, May 2024 - Current
+- Alibaba DAMO Academy, Research Intern, June 2022 - August 2022
+
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
