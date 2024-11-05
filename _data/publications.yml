@@ -38,7 +38,7 @@ main:
     code: "https://github.com/shawnricecake/vit-lottery-ticket-input"
     # bibtex: 
     image: "./assets/img/paper_lottery_vit.png"
-    # notes: "Accept"
+    # notes: "Oral"
 
   - title: "HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models"
     authors: <strong>Xuan Shen</strong>, Zhaoyang Han, Lei Lu, Zhenglun Kong, Peiyan Dong, Zhengang Li, Yanyue Xie, Chao Wu, Miriam Leeser, Pu Zhao, Xue Lin, Yanzhi Wang
