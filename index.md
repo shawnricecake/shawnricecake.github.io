@@ -13,7 +13,7 @@ I was fortunate to work with [Ming Lin](https://minglin-home.github.io/).
 
 ## Research Interests
 
-- **Efficient AI:**  Model Compression, Pruning, Quantization, NAS
+- **Efficient AI:**  Model Compression, Pruning, Quantization, NAS, Distillation
 - **Software Hardware Co-Design:**  Edge Computing, FPGA Implementation, ASIC Design
 
 ## Recent News
