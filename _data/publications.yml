@@ -4,21 +4,21 @@ main:
     authors: <strong>Xuan Shen</strong>, Zhao Song, Yufa Zhou, Bo Chen, Jing Liu, Ruiyi Zhang, Ryan A. Rossi, Hao Tan, Tong Yu, Xiang Chen, Yufan Zhou, Tong Sun, Pu Zhao, Yanzhi Wang, Jiuxiang Gu
     conference_short: "AAAI 2025"
     # conference: <strong>AAAI</strong> 2025
-    pdf: ""
-    code: ""
+    # pdf: ""
+    # code: ""
     # bibtex: 
     image: "./assets/img/paper_numerical_prune.png"
-    # notes: "Accept"
+    notes: "arxiv and code are under internal review"
     
   - title: "LazyDiT: Lazy Learning for the Acceleration of Diffusion Transformers"
     authors: <strong>Xuan Shen</strong>, Zhao Song, Yufa Zhou, Bo Chen, Yanyu Li, Yifan Gong, Kai Zhang, Hao Tan, Jason Kuen, Henghui Ding, Zhihao Shu, Wei Niu, Pu Zhao, Yanzhi Wang, Jiuxiang Gu
     conference_short: "AAAI 2025"
     # conference: <strong>AAAI</strong> 2025
-    pdf: ""
-    code: ""
+    # pdf: ""
+    # code: ""
     # bibtex: 
     image: "./assets/img/paper_lazydit.png"
-    # notes: "Accept"
+    notes: "arxiv and code are under internal review"
   
   - title: "Search for Efficient Large Language Models"
     authors: <strong>Xuan Shen</strong>, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang
