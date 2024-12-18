@@ -4,27 +4,27 @@ main:
     authors: <strong>Xuan Shen</strong>, Zhao Song, Yufa Zhou, Bo Chen, Jing Liu, Ruiyi Zhang, Ryan A. Rossi, Hao Tan, Tong Yu, Xiang Chen, Yufan Zhou, Tong Sun, Pu Zhao, Yanzhi Wang, Jiuxiang Gu
     conference_short: "AAAI 2025"
     # conference: <strong>AAAI</strong> 2025
-    # pdf: ""
+    pdf: "https://arxiv.org/abs/2412.12441"
     # code: ""
     # bibtex: 
     image: "./assets/img/paper_numerical_prune.png"
-    notes: "arxiv and code are under internal review"
+    notes: "code is under internal review"
     
   - title: "LazyDiT: Lazy Learning for the Acceleration of Diffusion Transformers"
     authors: <strong>Xuan Shen</strong>, Zhao Song, Yufa Zhou, Bo Chen, Yanyu Li, Yifan Gong, Kai Zhang, Hao Tan, Jason Kuen, Henghui Ding, Zhihao Shu, Wei Niu, Pu Zhao, Yanzhi Wang, Jiuxiang Gu
     conference_short: "AAAI 2025"
     # conference: <strong>AAAI</strong> 2025
-    # pdf: ""
+    pdf: "https://arxiv.org/abs/2412.12444"
     # code: ""
     # bibtex: 
     image: "./assets/img/paper_lazydit.png"
-    notes: "arxiv and code are under internal review"
+    notes: "code is under internal review"
   
   - title: "Search for Efficient Large Language Models"
     authors: <strong>Xuan Shen</strong>, Pu Zhao, Yifan Gong, Zhenglun Kong, Zheng Zhan, Yushu Wu, Ming Lin, Chao Wu, Xue Lin, Yanzhi Wang
     conference_short: "NeurIPS 2024"
     # conference: <strong>NeurIPS</strong> 2024
-    pdf: "https://arxiv.org/pdf/2409.17372"
+    pdf: "https://arxiv.org/abs/2409.17372"
     code: "https://github.com/shawnricecake/search-llm"
     # bibtex: 
     image: "./assets/img/paper_search_llm.png"
@@ -34,7 +34,7 @@ main:
     authors: <strong>Xuan Shen</strong>, Peiyan Dong, Lei Lu, Zhenglun Kong, Zhengang Li, Ming Lin, Chao Wu, Yanzhi Wang
     conference_short: "AAAI 2024"
     # conference: <strong>AAAI</strong> 2024
-    pdf: "https://arxiv.org/pdf/2312.05693"
+    pdf: "https://arxiv.org/abs/2312.05693"
     code: "https://github.com/shawnricecake/agile-quant"
     # bibtex: 
     image: "./assets/img/paper_agile_quant.png"
@@ -44,7 +44,7 @@ main:
     authors: <strong>Xuan Shen</strong>, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang
     conference_short: "CVPR 2023"
     # conference: <strong>CVPR</strong> 2023
-    pdf: "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DeepMAD_Mathematical_Architecture_Design_for_Deep_Convolutional_Neural_Network_CVPR_2023_paper.pdf"
+    pdf: "https://arxiv.org/abs/2303.02165"
     code: "https://github.com/alibaba/lightweight-neural-architecture-search"
     # bibtex: 
     image: "./assets/img/paper_deepmad.png"
@@ -54,7 +54,7 @@ main:
     authors: <strong>Xuan Shen</strong>, Zhenglun Kong, Minghai Qin, Peiyan Dong, Geng Yuan, Xin Meng, Hao Tang, Xiaolong Ma, Yanzhi Wang
     conference_short: "IJCAI 2023"
     # conference: <strong>IJCAI</strong> 2023
-    pdf: "https://arxiv.org/pdf/2211.01484"
+    pdf: "https://arxiv.org/abs/2211.01484"
     code: "https://github.com/shawnricecake/vit-lottery-ticket-input"
     # bibtex: 
     image: "./assets/img/paper_lottery_vit.png"
