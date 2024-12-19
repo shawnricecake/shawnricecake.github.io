@@ -18,7 +18,7 @@ I was fortunate to work with [Ming Lin](https://minglin-home.github.io/).
 
 ## Recent News
 
-- **[Dec. 2024]** Got the reward of Adobe 2024 Key Innovations (Tech Transfer Small LLM on Acrobat).
+- **[Dec. 2024]** Got Adobe Reward: 2024 Key Innovations (Tech Transfer Small LLM on Acrobat).
 - **[Dec. 2024]** Three papers for generative models have been accepeted to AAAI.
 - **[Nov. 2024]** Multimodal Opioid Benchmark released on HuggingFace: [opioidarchive/oida-qa](https://huggingface.co/datasets/opioidarchive/oida-qa).
 - **[Oct. 2024]** Our paper about NAS for LLMs has been accepted to NeurIPS 2024.
