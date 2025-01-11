@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "news-got-two-papers-accepted-in-neurips-2024",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "* Equal Contribution, † Corresponding Author(s)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "news-got-two-papers-accepted-in-neurips-2024",
           title: 'Got two papers accepted in NeurIPS 2024.',
           description: "",
           section: "News",},{id: "news-our-paper-about-ptq-of-llms-on-mobile-and-fpga-has-been-accepted-to-tcad",
