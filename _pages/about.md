@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
+#othsubtitle:
   
 profile:
   align: right
