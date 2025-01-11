@@ -16,6 +16,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. student in ECE Department of [Northeastern University](https://www.northeastern.edu/) at Boston, advised by [Yanzhi Wang](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en). Previously, I received my M.S. degree at Northeastern University in 2020 and my B.S. degree at Nanjing University of Science and Technology in 2018.
 
+My research interest is **Efficient AI** including pruning, quantization, NAS, and distillation with **Software Hardware Co-Design** on Mobile, FGPA, and ASIC.
+
 I work closely with [Jiuxiang Gu](https://gujiuxiang.com/), Prof. [Pu Zhao](https://puzhao.info/) and Prof. [Wei Niu](https://www.niuwei.info/).
 I was fortunate to work with [Ming Lin](https://minglin-home.github.io/).
 
