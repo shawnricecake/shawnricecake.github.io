@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Publications/
 title: Publications
 description: * Equal Contribution, † Corresponding Author(s)
 nav: true
