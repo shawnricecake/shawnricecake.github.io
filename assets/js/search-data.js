@@ -16,7 +16,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{
+        },{id: "news-got-two-papers-accepted-in-neurips-2024",
+          title: 'Got two papers accepted in NeurIPS 2024.',
+          description: "",
+          section: "News",},{id: "news-our-paper-about-ptq-of-llms-on-mobile-and-fpga-has-been-accepted-to-tcad",
+          title: 'Our paper about PTQ of LLMs on Mobile and FPGA has been accepted...',
+          description: "",
+          section: "News",},{id: "news-multimodal-opioid-benchmark-released-on-huggingface-opioidarchive-oida-qa",
+          title: 'Multimodal Opioid Benchmark released on HuggingFace: opioidarchive/oida-qa.',
+          description: "",
+          section: "News",},{id: "news-got-three-papers-accepted-in-aaai-2025",
+          title: 'Got three papers accepted in AAAI 2025.',
+          description: "",
+          section: "News",},{id: "news-got-adobe-reward-2024-key-innovations-tech-transfer-small-llm-on-acrobat",
+          title: 'Got Adobe Reward: 2024 Key Innovations (Tech Transfer Small LLM on Acrobat).',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
