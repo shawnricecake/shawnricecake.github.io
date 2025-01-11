@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.northeastern.edu/'>Northeastern University</a> Ph.D.
-
+subtitle: 
+  
 profile:
   align: right
   image: me.jpeg
