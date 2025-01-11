@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.northeastern.edu/'>Northeastern University</a> Ph.D.
 
 profile:
-  align: left
+  align: right
   image: me.jpeg
   image_circular: false # crops the image to make it circular
 
