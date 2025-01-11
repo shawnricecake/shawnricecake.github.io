@@ -16,14 +16,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{
+        },{id: "nav-submenus",
+          title: "submenus",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/dropdown.html";
+          },
+        },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
