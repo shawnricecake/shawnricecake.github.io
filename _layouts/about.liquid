@@ -73,8 +73,12 @@ layout: default
       </div>
     {% endif %}
 
-
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0&cl=ffffff&w=a"></script>
+    <div class="map-container" style="max-width: 600px; margin: 0 auto;">
+      <script type="text/javascript" id="clustrmaps"
+              src="//clustrmaps.com/map_v2.js?d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0&cl=ffffff&w=a"
+              async defer>
+      </script>
+    </div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
