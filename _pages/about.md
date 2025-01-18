@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: "Email: shenxuan0516@gmail.com"
 #othsubtitle:
   
 profile:
@@ -10,7 +10,7 @@ profile:
   image: me.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: shenxuan0516@gmail.com</p>
+    <p>Boston, MA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
