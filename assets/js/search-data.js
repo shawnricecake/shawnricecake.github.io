@@ -31,6 +31,9 @@ ninja.data = [{
           section: "News",},{id: "news-got-adobe-reward-2024-key-innovations-tech-transfer-small-llm-on-acrobat",
           title: 'Got Adobe Reward: 2024 Key Innovations (Tech Transfer Small LLM on Acrobat).',
           description: "",
+          section: "News",},{id: "news-got-one-paper-accepted-in-iclr-2025",
+          title: 'Got one paper accepted in ICLR 2025.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
