@@ -34,6 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-got-one-paper-accepted-in-iclr-2025",
           title: 'Got one paper accepted in ICLR 2025.',
           description: "",
+          section: "News",},{id: "news-release-the-code-of-lazydit",
+          title: 'Release the code of LazyDiT.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
