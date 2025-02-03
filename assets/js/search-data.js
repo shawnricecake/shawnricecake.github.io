@@ -37,6 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-release-the-code-of-lazydit",
           title: 'Release the code of LazyDiT.',
           description: "",
+          section: "News",},{id: "news-release-efficient-reasoning-work-with-paper-and-code",
+          title: 'Release efficient reasoning work with paper and code.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
