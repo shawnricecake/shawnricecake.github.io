@@ -4,7 +4,7 @@
     <div
       class="table-responsive"
       {% if site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 145px; overflow-y: auto;"
+        style="max-height: 140px; overflow-y: auto;"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
@@ -28,6 +28,7 @@
         {% endfor %}
       </table>
     </div>
+    <div style="margin-top: 20px;"></div>
   {% else %}
     <p>No news so far...</p>
   {% endif %}
