@@ -16,10 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-our-paper-accepted-in-iclr-2025-sci-fm-workshop",
-          title: 'Our paper accepted in ICLR 2025 SCI-FM Workshop.',
-          description: "",
-          section: "News",},{id: "news-got-two-papers-accepted-in-neurips-2024",
+        },{id: "news-got-two-papers-accepted-in-neurips-2024",
           title: 'Got two papers accepted in NeurIPS 2024.',
           description: "",
           section: "News",},{id: "news-our-paper-about-ptq-of-llms-on-mobile-and-fpga-has-been-accepted-to-tcad",
@@ -45,6 +42,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-got-one-paper-accepted-in-cvpr-2025",
           title: 'Got one paper accepted in CVPR 2025.',
+          description: "",
+          section: "News",},{id: "news-our-paper-accepted-in-iclr-2025-sci-fm-workshop",
+          title: 'Our paper accepted in ICLR 2025 SCI-FM Workshop.',
           description: "",
           section: "News",},{
       id: 'light-theme',
