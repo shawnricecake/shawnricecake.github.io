@@ -21,7 +21,9 @@ I am a Ph.D. student in ECE Department of [Northeastern University](https://www.
 
 My research interest is **Efficient AI** including pruning, quantization, NAS, and distillation with **Software Hardware Co-Design** on Mobile, FGPA, and ASIC.
 
-I work closely with [Jiuxiang Gu](https://gujiuxiang.com/), Prof. [Pu Zhao](https://puzhao.info/) and Prof. [Wei Niu](https://www.niuwei.info/).
-I was fortunate to work with [Ming Lin](https://minglin-home.github.io/).
+[//]: # ()
+[//]: # (I work closely with [Jiuxiang Gu]&#40;https://gujiuxiang.com/&#41;, Prof. [Pu Zhao]&#40;https://puzhao.info/&#41; and Prof. [Wei Niu]&#40;https://www.niuwei.info/&#41;.)
+
+[//]: # (I was fortunate to work with [Ming Lin]&#40;https://minglin-home.github.io/&#41;.)
 
 **As a final-year Ph.D. candidate, I am actively pursuing post-doctoral and full-time research opportunities. I would welcome the chance to connect and discuss potential collaborations if our research interests align.**
