@@ -7,10 +7,10 @@ subtitle: "Email: shenxuan0516@gmail.com"
   
 profile:
   align: right
-  image: me.jpeg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>By the Sea of New England</p>
+    <p>In the Snow of New England</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
