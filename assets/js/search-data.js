@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-accepted-in-iclr-2025-sci-fm-workshop",
           title: 'Our paper accepted in ICLR 2025 SCI-FM Workshop.',
           description: "",
+          section: "News",},{id: "news-got-one-paper-accepted-in-iccad-2025",
+          title: 'Got one paper accepted in ICCAD 2025.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
