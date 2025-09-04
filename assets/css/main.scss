@@ -24,15 +24,9 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-/* Custom profile picture responsive style */
-.profile-pic-responsive {
-  width: 20vw;
-  height: auto;
-  max-width: 360px; // 限制超大屏
-}
-
+/* Custom profile image responsive rule */
 @media (max-width: 576px) {
-  .profile-pic-responsive {
-    width: 60vw;
+  img[alt="{{ page.profile.image }}"] {
+    width: 80vw !important;
   }
 }
