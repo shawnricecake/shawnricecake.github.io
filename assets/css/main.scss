@@ -26,9 +26,9 @@ $max-content-width: {{ site.max_width }};
 
 
 
-@media (min-width: 577px) {
-  img[alt="{{ page.profile.image }}"] {
-    width: 20vw !important;
-    max-width: 399px; /* 可选，防止超大屏太大 */
-  }
+/* Custom profile image responsive rule */
+.profile-pic-responsive {
+  width: 20vw !important;   /* 默认大屏幕 */
+  max-width: 360px;         /* 防止太大 */
+  height: auto;
 }
