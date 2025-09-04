@@ -20,7 +20,7 @@ layout: default
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
-          profile_image_class = 'img-fluid z-depth-1 rounded-circle profile-pic-responsive
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle profile-pic-responsive
           ' %}
           {% else %}
           {% assign profile_image_class = 'img-fluid z-depth-1 profile-pic-responsive
