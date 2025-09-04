@@ -24,9 +24,16 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+/* Default (大屏幕) */
+.profile-pic-responsive {
+  width: 20vw;
+  max-width: 360px;
+  height: auto;
+}
+
 /* Custom profile image responsive rule */
 @media (max-width: 576px) {
   img[alt="{{ page.profile.image }}"] {
-    width: 80vw !important;
+    width: 95vw !important;
   }
 }
