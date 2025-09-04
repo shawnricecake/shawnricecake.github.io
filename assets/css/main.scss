@@ -25,12 +25,6 @@ $max-content-width: {{ site.max_width }};
 ;
 
 
-/* Custom profile image responsive rule */
-@media (max-width: 576px) {
-  img[alt="{{ page.profile.image }}"] {
-    width: 95vw !important;
-  }
-}
 
 @media (min-width: 577px) {
   img[alt="{{ page.profile.image }}"] {
