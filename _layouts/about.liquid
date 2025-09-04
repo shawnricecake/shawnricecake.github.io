@@ -20,13 +20,12 @@ layout: default
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle profile-pic-responsive' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded profile-pic-responsive' %}
           {% endif %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      20vw, 80vw"{% endcapture %}
+      30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
@@ -73,9 +72,15 @@ layout: default
       </div>
     {% endif %}
 
+    {%
+      comment
+    %}
     <div class="map-container" style="max-width: 500px; margin: 0 auto; padding-top: 40px">
       <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vjp5GNVe2UXyjDmAHLgKg5Kc3tVYSO_8a08pK_u6TJ0&cmo=1f1def'></script>
     </div>
+    {%
+      endcomment
+    %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
