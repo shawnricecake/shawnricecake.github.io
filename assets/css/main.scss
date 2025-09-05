@@ -26,9 +26,16 @@ $max-content-width: {{ site.max_width }};
 
 
 
-/* Custom profile image responsive rule */
+/* 默认大屏幕 */
 .profile-pic-responsive {
-  width: 20vw !important;   /* 默认大屏幕 */
-  max-width: 360px;         /* 防止太大 */
+  width: 20vw;        /* 屏幕宽度的 20% */
+  max-width: 188px;   /* 防止过大 */
   height: auto;
+}
+
+/* 小屏幕（<576px） */
+@media (max-width: 576px) {
+  .profile-pic-responsive {
+    width: 95vw !important;
+  }
 }
