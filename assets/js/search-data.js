@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-got-one-paper-accepted-in-iccad-2025",
           title: 'Got one paper accepted in ICCAD 2025.',
           description: "",
+          section: "News",},{id: "news-ph-d-defense-completed",
+          title: 'Ph.D. Defense Completed!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
