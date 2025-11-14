@@ -39,3 +39,20 @@ $max-content-width: {{ site.max_width }};
     width: 95vw !important;
   }
 }
+
+
+
+/* 大屏幕时固定 badge 宽度 */
+@media (min-width: 768px) {
+  .abbr {
+    min-width: 120px !important;
+  }
+}
+
+/* 小屏幕（含 <768px）保持自适应 */
+@media (max-width: 767px) {
+  .abbr {
+    min-width: auto !important;
+    width: 100% !important;
+  }
+}
