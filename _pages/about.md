@@ -10,7 +10,7 @@ profile:
   image: me.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>By the Sea of New England</p>
+    <p>By the Sea of the <br>New England, US</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
