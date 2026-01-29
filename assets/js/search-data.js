@@ -55,6 +55,9 @@ ninja.data = [{
           section: "News",},{id: "news-got-one-paper-accepted-in-aaai-2026-ai-for-social-impact-track",
           title: 'Got one paper accepted in AAAI 2026 AI for Social Impact Track.',
           description: "",
+          section: "News",},{id: "news-got-one-paper-accepted-in-iclr-2026",
+          title: 'Got one paper accepted in ICLR 2026.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
