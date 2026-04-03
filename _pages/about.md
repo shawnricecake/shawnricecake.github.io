@@ -22,7 +22,9 @@ I obtained my Ph.D. in Electrical and Computer Engineering from [Northeastern Un
 [//]: # (My research interest is efficient deep learning, including pruning, quantization, NAS, and distillation with software hardware co-design on GPU, Mobile, FGPA, and ASIC.)
 My research interests center on efficient deep learning, with a particular focus on optimizing large foundation models and diffusion models for text and visual generation. I emphasize scalability, latency reduction, and deployment efficiency across a wide range of hardware platforms, including GPUs, mobile devices, FPGAs, and ASICs.
 
-I will be joining Zhejiang University as a ZJU100 Young Professor, where I will continue my research on efficient and scalable AI systems, with a focus on AI/robotics infra. I’m looking for self-motivated students and interns to join my group. Feel free to reach out if you’re interested in working with me.
+I will be joining [Zhejiang University](https://www.zju.edu.cn/english/) as a ZJU100 Young Professor, where I will continue my research on efficient and scalable AI systems, with a focus on AI/robotics infra. 
+
+I am always looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about efficient and scalable AI systems, and interested in working on cutting-edge topics such as foundation models, diffusion models, or AI/robotics infra, please feel free to reach out with your CV.
 
 [//]: # ()
 [//]: # (I work closely with [Jiuxiang Gu]&#40;https://gujiuxiang.com/&#41;, Prof. [Pu Zhao]&#40;https://puzhao.info/&#41; and Prof. [Wei Niu]&#40;https://www.niuwei.info/&#41;.)
