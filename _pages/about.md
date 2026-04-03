@@ -24,7 +24,9 @@ My research interests center on efficient deep learning, with a particular focus
 
 I will be joining [Zhejiang University](https://www.zju.edu.cn/english/) as a ZJU100 Young Professor, where I will continue my research on efficient and scalable AI systems.
 
-I am looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about efficient and scalable AI systems, and interested in working on cutting-edge topics such as foundation models, diffusion models, or AI/robotics infra, please feel free to reach out with your CV.
+I am always looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about efficient and scalable AI systems, and interested in working on cutting-edge topics such as foundation models, diffusion models, or AI/robotics infra, please feel free to reach out with your CV.
+
+Now, we have an opening for a research intern on efficient coding agents. We are looking for candidates with strong programming skills and extensive experience with widely used LLM frameworks (e.g., vLLM, SGLang, OpenCLAW). The ideal candidate should be self-motivated and interested in working on open-ended research problems. If you are interested, please contact me via email and indicate this opening in your message.
 
 [//]: # ()
 [//]: # (I work closely with [Jiuxiang Gu]&#40;https://gujiuxiang.com/&#41;, Prof. [Pu Zhao]&#40;https://puzhao.info/&#41; and Prof. [Wei Niu]&#40;https://www.niuwei.info/&#41;.)
