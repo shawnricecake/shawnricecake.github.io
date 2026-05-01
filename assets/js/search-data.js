@@ -61,6 +61,9 @@ ninja.data = [{
           section: "News",},{id: "news-gave-a-talk-to-jhu-for-oida-with-our-recent-update",
           title: 'Gave a talk to JHU for OIDA with our recent update.',
           description: "",
+          section: "News",},{id: "news-got-one-paper-accepted-in-icml-2026",
+          title: 'Got one paper accepted in ICML 2026.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
