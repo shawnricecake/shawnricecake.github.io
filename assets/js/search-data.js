@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-got-one-paper-accepted-in-icml-2026",
           title: 'Got one paper accepted in ICML 2026.',
           description: "",
+          section: "News",},{id: "news-joined-zhejiang-university-as-a-zju100-young-professor",
+          title: 'Joined Zhejiang University as a ZJU100 Young Professor.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
