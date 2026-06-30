@@ -23,8 +23,6 @@ I am a ZJU100 Young Professor in the College of Computer Science and Technology 
 My research interests center on efficient deep learning, with a particular focus on optimizing large foundation models and diffusion models for text and visual generation. I emphasize scalability, latency reduction, and deployment efficiency across a wide range of hardware platforms, including GPUs, mobile devices, FPGAs, and ASICs.
 
 
-## Openings / Collaborations
-
 I am always looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about efficient and scalable AI systems, and interested in working on cutting-edge topics such as foundation models, diffusion models, or AI/robotics infra, please feel free to reach out with your CV.
 
 **Now, we still postions for PhD students and Master students in Fall 2027, and visiting students in Summer 2026 for research projects.**
