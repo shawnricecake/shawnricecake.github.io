@@ -23,7 +23,7 @@ I am a ZJU100 Young Professor in the College of Computer Science and the State K
 My research interests center on efficient deep learning, with a particular focus on optimizing large foundation models and diffusion models for text and visual generation. I emphasize scalability, latency reduction, and deployment efficiency across a wide range of hardware platforms, including GPUs, mobile devices, FPGAs, and ASICs.
 
 
-I am always looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about **efficient and scalable AI systems, and interested in working on cutting-edge topics such as world models, embodied AI, or AI/robotics infra**, please feel free to reach out with your CV.
+I am always looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about **efficient and scalable AI systems**, and interested in working on cutting-edge topics such as **world models, embodied AI, or AI/robotics infra**, please feel free to reach out with your CV.
 
 **Now, we still positions for Ph.D. and M.S. students in Fall 2027, as well as visiting students for Summer 2026, to work on research projects in world models and embodied AI.**
 
