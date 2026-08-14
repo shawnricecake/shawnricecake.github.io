@@ -25,7 +25,7 @@ My research interests center on efficient deep learning, with a particular focus
 
 I am always looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about **efficient and scalable AI systems**, and interested in working on cutting-edge topics such as **world models, embodied AI, or AI/robotics infra**, please feel free to reach out with your CV.
 
-**Now, we still positions for Ph.D. and M.S. students in Fall 2027, as well as visiting students for Summer 2026, to work on research projects in world models and embodied AI.**
+Now, we **DO NOT** have positions for Ph.D. and M.S. students in Fall 2027. We still have positions for visiting students to work on research projects in world models and embodied AI.
 
 [//]: # (Now, we have **openings for research interns on efficient coding agents**. We are looking for candidates with strong programming skills and extensive experience with widely used LLM frameworks &#40;e.g., vLLM, SGLang, OpenCLAW&#41;. The ideal candidate should be self-motivated and interested in working on open-ended research problems. If you are interested, please contact me via email and indicate this opening in your message.)
 
