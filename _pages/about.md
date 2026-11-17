@@ -25,8 +25,7 @@ My research interests center on efficient deep learning, with a particular focus
 
 I am always looking for highly self-motivated and curious undergraduate interns as well as graduate students to join our research group. If you are passionate about **efficient and scalable AI systems**, and interested in working on cutting-edge topics such as **world models, embodied AI, or AI/robotics infra**, please feel free to reach out with your CV.
 
-Now, we have **positions** for visiting students to work on research projects related to **video generation** and **embodied AI**. If you are interested, **please send the resume to the lab email: shenxuan_zju@163.com**
-
+We currently have **open positions** for visiting students to work on research projects related to **video generation** and **embodied AI**. If you are interested, please **send your CV to our lab email: [shenxuan_zju@163.com](mailto:shenxuan_zju@163.com)**.
 
 
 
